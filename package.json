@@ -4,6 +4,7 @@
   "description": "deploying a node application with docker",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
